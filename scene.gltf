@@ -1,0 +1,422 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 434,
+      "max": [
+        1.8474111129762605e-13,
+        124.0,
+        3.979039320256561e-13
+      ],
+      "min": [
+        -121.0,
+        -1.5777218104420236e-29,
+        -131.30120849609375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5208,
+      "componentType": 5126,
+      "count": 434,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 434,
+      "max": [
+        1.0,
+        1.300364033340884e-06,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0563612704572733e-06,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 434,
+      "max": [
+        0.9118139743804932,
+        0.8611111044883728
+      ],
+      "min": [
+        -0.49801889061927795,
+        -0.49801889061927795
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3472,
+      "componentType": 5126,
+      "count": 434,
+      "max": [
+        0.9118139743804932,
+        0.8611111044883728
+      ],
+      "min": [
+        -0.49801889061927795,
+        -0.49801889061927795
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6944,
+      "componentType": 5126,
+      "count": 434,
+      "max": [
+        0.9118139743804932,
+        0.8611111044883728
+      ],
+      "min": [
+        -0.49801889061927795,
+        -0.49801889061927795
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 10416,
+      "componentType": 5126,
+      "count": 434,
+      "max": [
+        0.9118139743804932,
+        0.8611111044883728
+      ],
+      "min": [
+        -0.49801889061927795,
+        -0.49801889061927795
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 13888,
+      "componentType": 5126,
+      "count": 434,
+      "max": [
+        0.9118139743804932,
+        0.8611111044883728
+      ],
+      "min": [
+        -0.49801889061927795,
+        -0.49801889061927795
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 17360,
+      "componentType": 5126,
+      "count": 434,
+      "max": [
+        0.9118139743804932,
+        0.8611111044883728
+      ],
+      "min": [
+        -0.49801889061927795,
+        -0.49801889061927795
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 20832,
+      "componentType": 5126,
+      "count": 434,
+      "max": [
+        0.9118139743804932,
+        0.8611111044883728
+      ],
+      "min": [
+        -0.49801889061927795,
+        -0.49801889061927795
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 24304,
+      "componentType": 5126,
+      "count": 434,
+      "max": [
+        0.9118139743804932,
+        0.8611111044883728
+      ],
+      "min": [
+        -0.49801889061927795,
+        -0.49801889061927795
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 27776,
+      "componentType": 5126,
+      "count": 434,
+      "max": [
+        0.9118139743804932,
+        0.8611111044883728
+      ],
+      "min": [
+        -0.49801889061927795,
+        -0.49801889061927795
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 31248,
+      "componentType": 5126,
+      "count": 434,
+      "max": [
+        0.9118139743804932,
+        0.8611111044883728
+      ],
+      "min": [
+        -0.49801889061927795,
+        -0.49801889061927795
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 846,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Periltek Games (https://sketchfab.com/PeriltekGames)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/concrete-stairs-2-8bc4ce5657e548bbacada83f04e7f50d",
+      "title": "Concrete Stairs 2"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 3384,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 34720,
+      "byteOffset": 3384,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10416,
+      "byteOffset": 38104,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6944,
+      "byteOffset": 48520,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 55464,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Concrete012_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Concrete012_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Concrete012_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "name": "Concrete012",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Mesh1_Concrete012_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5,
+            "TEXCOORD_3": 6,
+            "TEXCOORD_4": 7,
+            "TEXCOORD_5": 8,
+            "TEXCOORD_6": 9,
+            "TEXCOORD_7": 10,
+            "TEXCOORD_8": 11,
+            "TEXCOORD_9": 12
+          },
+          "indices": 13,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Concrete Stairs 2.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "Model"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Group1"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "Mesh1"
+    },
+    {
+      "mesh": 0,
+      "name": "Mesh1_Concrete012_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
